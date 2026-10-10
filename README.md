@@ -1,8 +1,8 @@
 # Hi, I'm Tejas Parmar 👋
 
-### Founder @ [Vimirlab Solutions](https://vimirlab.com) | AI-Powered Software & Automation | Full-Stack Engineer
+### Freelance Full-Stack Developer | AI-Powered Software & Automation | Web & Mobile Applications
 
-I build **AI-powered applications, scalable software, mobile apps, and e-commerce solutions** that solve real business problems.
+I'm an independent freelance developer building **AI-powered applications, scalable software, mobile apps, and e-commerce solutions** that solve real business problems.
 
 With **13+ years of software development experience** and a background as a **Magento Certified Developer**, I combine hands-on engineering with modern AI tools to take products from idea to launch.
 
@@ -46,10 +46,11 @@ I focus on the **business outcome**, not just the code: understanding requiremen
 
 ## 🤝 Let's Connect
 
-Have an idea for an AI application, custom SaaS platform, mobile app, CRM, or e-commerce solution?
+Looking for a freelance developer for an AI application, custom SaaS platform, mobile app, CRM, or e-commerce solution? Let's discuss your project.
 
-- 🌐 **Website:** [vimirlab.com](https://vimirlab.com)
-- 💼 **LinkedIn:** [Tejas Parmar](https://www.linkedin.com/in/tejas-parmar-13757650/)
+- ⭐ **Fiverr:** [Hire me on Fiverr](https://www.fiverr.com/tejas77)
+- 💼 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/vimirlabbiz)
+- 🔗 **LinkedIn:** [Tejas Parmar](https://www.linkedin.com/in/tejas-parmar-13757650/)
 - 🧑‍💻 **GitHub:** [@tejashp77](https://github.com/tejashp77)
 
 *Building smarter digital products through software engineering and AI.*
